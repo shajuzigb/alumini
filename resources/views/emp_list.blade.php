@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="{{ asset('asset/css/table.css') }}" />
 <p>Resize window to see different layouts.</p>
-
+TEST HARIS
 <div class="list">
   <ul>
   <li> ID</li>
