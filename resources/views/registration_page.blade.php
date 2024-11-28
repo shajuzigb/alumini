@@ -3,7 +3,7 @@
         <div class="title">
             <p>Registration</p>
         </div>
-
+//shaju test //
         <form method="POST" action="{{ isset($var) && $var->exists ? url('edit_a/'.$var->id):url('url_reg_insert')}}" enctype="multipart/form-data" class="from-data">
             @csrf
             <div class="user_details">
