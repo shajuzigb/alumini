@@ -1,3 +1,7 @@
+<div class="banner">
+    <img src="{{ asset('images/exlogo.svg') }}" alt="Banner" style="width: 100%; max-height: 100px;">
+</div>
+
 <table>
     <thead>
         <tr>
@@ -22,3 +26,19 @@
         @endforeach
     </tbody>
 </table>
+
+<style>
+.banner {
+    margin-bottom: 20px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 100px;
+}
+
+.banner img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: contain;
+}
+</style>
