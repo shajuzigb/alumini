@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="{{asset('asset/css/mystyle.css') }}" />
 <div class="wrapper">
     <div class="title">
-      Alumni Registration Form xxxxxx
+      Alumni Registration Form ---  new from shaju branch
     </div>
     <div class="form">
        <div class="inputfield">
